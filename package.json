@@ -7,7 +7,8 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "firebase": "^9.22.1",
     "fontawesome": "^5.6.3",
-    "i": "^0.3.7"
+    "i": "^0.3.7",
+    "requests": "^0.3.0"
   },
   "devDependencies": {
     "jest": "^29.5.0",
